@@ -1,5 +1,4 @@
-Test
-Il pleut
-C'est moche
 Il fait froid
 ====
+Il pleut
+C'est moche
